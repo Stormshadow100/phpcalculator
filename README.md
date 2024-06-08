@@ -10,7 +10,7 @@ This is a PHP-based multifunctional calculator application. It is capable of car
     ```
 2. Navigate to the project directory:
     ```
-    cd phpcalculator
+    cd phpcalculator 
     ```
 3. Ensure your server is running and supports PHP.
 
